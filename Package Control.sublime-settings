@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ColorPick",
+		"CSS Snippets",
+		"Drupal Project Autocomplete",
+		"Drupal Snippets",
+		"Git",
+		"Goto Drupal API",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Tag",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets",
+		"Zurb Foundation Snippets"
+	]
+}
